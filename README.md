@@ -47,7 +47,7 @@ Once the script is running, a live camera feed will appear, and the 3D lung mode
 
 ## Credits
 
-- The code is inspired by the example available [here]([https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyopengl](https://github.com/BryceQing/OPENCV_AR/tree/master)).
+- The code is inspired by the example available [here](https://github.com/BryceQing/OPENCV_AR/tree/master).
 
 ## Future Work
 
